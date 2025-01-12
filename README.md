@@ -71,46 +71,6 @@
 </table>
 
 <hr>
-<table border="1">
-  <tr>
-    <th colspan="2">Esquema</th>
-  </tr>
-  <tr>
-    <td>Fila 1, Columna 1</td>
-    <td>Fila 1, Columna 2</td>
-  </tr>
-  <tr>
-    <td>Fila 2, Columna 1</td>
-    <td>Fila 2, Columna 2</td>
-  </tr> 
-</table>
-
-<hr>
-<div style="width: 100%;">
-    <table>
-        <thead style="background-color:#007BFF; color:white;">
-            <tr>
-                <th colspan="2">Esquema</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td style="white-space: nowrap;">Fila 1, Columna 1</td>
-                <td style="white-space: nowrap;">Fila 1, Columna 2</td>
-            </tr>
-            <tr>
-                <td style="white-space: nowrap;">Fila 2, Columna 1</td>
-                <td style="white-space: nowrap;">Fila 2, Columna 2</td>
-            </tr>
-            <tr>
-                <td style="white-space: nowrap;">Fila 3, Columna 1</td>
-                <td style="white-space: nowrap;">Fila 3, Columna 2</td>
-            </tr>
-        </tbody>
-    </table>
-</div>
-
-
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imtaoficial&show_icons=true&locale=en&layout=compact" alt="imtaoficial" /></p>
 
