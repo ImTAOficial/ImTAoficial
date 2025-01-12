@@ -37,18 +37,36 @@
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
     <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
 </p>
- 
-|<h3 align="left">Desing:</h3>
+
+<table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
+
+<h3 align="left">Desing:</h3>
 <p align="left">
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-</p>|
+</p>
 
-|<h3 align="left">S.O.:</h3>
+<h3 align="left">S.O.:</h3>
 <p align="left">
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-</p>|
+</p>
 
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imtaoficial&show_icons=true&locale=en&layout=compact" alt="imtaoficial" /></p>
