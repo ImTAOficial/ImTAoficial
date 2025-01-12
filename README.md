@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 <h1 align="center">Hi 👋, I'm Antonio Herrera</h1>
 <h3 align="center">A passionate frontend</h3>
 
