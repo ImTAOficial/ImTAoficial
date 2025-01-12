@@ -7,7 +7,7 @@
 - 📝 Know about my experiences and I regularly write articles on <a href="https://www.linkedin.com/in/imta/">LinkedIn<a/>
 
 - 📫 <strong>How to reach me: </strong>**taherreraoficial@gmail.com**
-
+<hr>
 <table align="center">
   <tr>
     <th colspan="2">SKILLS</th>
@@ -69,33 +69,6 @@
     </td>
   </tr>
 </table>
-
-<hr>
-
-<div style="width: 100%;">
-    <table style="border: none; border-collapse: collapse;">
-        <thead style="background-color:#007BFF; color:white;">
-            <tr>
-                <th style="border: none;" colspan="2">Esquema</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td style="white-space: nowrap; border: none;">Fila 1, Columna 1</td>
-                <td style="white-space: nowrap; border: none;">Fila 1, Columna 2</td>
-            </tr>
-            <tr>
-                <td style="white-space: nowrap; border: none;">Fila 2, Columna 1</td>
-                <td style="white-space: nowrap; border: none;">Fila 2, Columna 2</td>
-            </tr>
-            <tr>
-                <td style="white-space: nowrap; border: none;">Fila 3, Columna 1</td>
-                <td style="white-space: nowrap; border: none;">Fila 3, Columna 2</td>
-            </tr>
-        </tbody>
-    </table>
-</div>
-
 
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imtaoficial&show_icons=true&locale=en&layout=compact" alt="imtaoficial" /></p>
