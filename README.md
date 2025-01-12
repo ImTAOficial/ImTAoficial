@@ -9,6 +9,9 @@
 
 <table align="center">
   <tr>
+    <th>SKILLS</th>
+  </tr>
+  <tr>
     <th>
         <h3 align="left">Languages:</h3>
 <p align="left"> 
