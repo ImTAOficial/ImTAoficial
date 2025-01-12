@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Antonio Herrera</h1>
 <h3 align="center">A passionate frontend</h3>
 
-- 🔭<p align="center">As a freelance web developer, I specialize in building robust, scalable web applications for various clients, tailoring solutions to meet their needs and ensuring high-quality results in each project. I work primarily with JavaScript and PHP, leveraging modern frameworks like ReactJS for frontend development and Laravel 11 for backend. For database management, I handle both relational databases with SQL and non-relational databases using NodeJS.</p>
+<p align="center">As a freelance web developer, I specialize in building robust, scalable web applications for various clients, tailoring solutions to meet their needs and ensuring high-quality results in each project. I work primarily with JavaScript and PHP, leveraging modern frameworks like ReactJS for frontend development and Laravel 11 for backend. For database management, I handle both relational databases with SQL and non-relational databases using NodeJS.</p>
 
 - 📝 Know about my experiences and I regularly write articles on <a href="https://www.linkedin.com/in/imta/">LinkedIn<a/>
 
