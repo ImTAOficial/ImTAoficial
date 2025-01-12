@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antonio Herrera</h1>
-<h3 align="center">A passionate frontend and android developer</h3>
+<h3 align="center">A passionate frontend</h3>
 
 - 🔭 I’m currently working on **BUGDIE GT an ecomerce**
 
