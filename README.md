@@ -85,6 +85,9 @@
 </table>
 
 <hr>
+<div class="container"> <table class="table table-striped table-bordered"> <thead class="bg-primary text-white"> <tr> <th colspan="2">Esquema</th> </tr> </thead> <tbody> <tr> <td>Fila 1, Columna 1</td> <td>Fila 1, Columna 2</td> </tr> <tr> <td>Fila 2, Columna 1</td> <td>Fila 2, Columna 2</td> </tr> <tr> <td>Fila 3, Columna 1</td> <td>Fila 3, Columna 2</td> </tr> </tbody> </table> </div>
+
+<hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imtaoficial&show_icons=true&locale=en&layout=compact" alt="imtaoficial" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imtaoficial&show_icons=true&locale=en" alt="imtaoficial" /></p>
