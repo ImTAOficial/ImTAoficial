@@ -86,7 +86,30 @@
 </table>
 
 <hr>
-<style> table { width: 100%; } td { white-space: nowrap; } </style> </head> <body> <div class="container"> <div class="row"> <div class="col"> <table class="table table-striped table-bordered"> <thead class="bg-primary text-white"> <tr> <th colspan="2">Esquema</th> </tr> </thead> <tbody> <tr> <td>Fila 1, Columna 1</td> <td>Fila 1, Columna 2</td> </tr> <tr> <td>Fila 2, Columna 1</td> <td>Fila 2, Columna 2</td> </tr> <tr> <td>Fila 3, Columna 1</td> <td>Fila 3, Columna 2</td> </tr> </tbody> </table> </div> </div> </div> <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script> <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js">
+<div style="width: 100%;">
+    <table>
+        <thead style="background-color:#007BFF; color:white;">
+            <tr>
+                <th colspan="2">Esquema</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td style="white-space: nowrap;">Fila 1, Columna 1</td>
+                <td style="white-space: nowrap;">Fila 1, Columna 2</td>
+            </tr>
+            <tr>
+                <td style="white-space: nowrap;">Fila 2, Columna 1</td>
+                <td style="white-space: nowrap;">Fila 2, Columna 2</td>
+            </tr>
+            <tr>
+                <td style="white-space: nowrap;">Fila 3, Columna 1</td>
+                <td style="white-space: nowrap;">Fila 3, Columna 2</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
 
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imtaoficial&show_icons=true&locale=en&layout=compact" alt="imtaoficial" /></p>
