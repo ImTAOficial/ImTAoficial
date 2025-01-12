@@ -9,7 +9,7 @@
 
 <table align="center">
   <tr>
-    <th>SKILLS</th>
+    <th colspan="2">SKILLS</th>
   </tr>
   <tr>
     <th>
